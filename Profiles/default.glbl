@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>shortDelay</description>
+      <initValue>3</initValue>
+      <name>globalShortDelay</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>mediumDelay</description>
+      <initValue>5</initValue>
+      <name>globalMediumDelay</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>longDelay</description>
+      <initValue>10</initValue>
+      <name>globalLongDelay</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Enable or disable screenshots at test case and reusable level</description>
+      <initValue>true</initValue>
+      <name>enableScreenshots</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
